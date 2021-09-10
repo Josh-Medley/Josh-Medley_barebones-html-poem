@@ -2,7 +2,7 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <h1>The Raven - by Edgar Allan Poe</h1>
+    <title>The Raven - by Edgar Allan Poe</title>
   </head>
   <body>
     <p>Once upon a midnight dreary, while I pondered, weak and weary,
