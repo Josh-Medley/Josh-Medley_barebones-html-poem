@@ -4,12 +4,14 @@ body {
    h1 {
     font-family: serif;
     font-weight: bold;
+    color: white;
     font-size:45pt;
     text-align: center;
 }
    h2 {
     font-family: serif;
     font-weight: bold;
+    color: white;
     font-size:28pt;
     text-align: center;
 }
