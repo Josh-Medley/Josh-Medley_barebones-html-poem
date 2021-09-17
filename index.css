@@ -13,7 +13,6 @@ body {
     font-size:12pt;
     text-align: center;
 }
-
    section {
     text-align: center;
     object-fit: contain;
@@ -24,7 +23,6 @@ body {
     font-family: Arial, Helvetica, sans-serif;
     font-weight: bold;
 }
-  
    a:link {
     color: blue;
     text-align: right;
@@ -32,7 +30,6 @@ body {
    a:visited {
     color:red;
 }
-  
    .poem {
     background-color:rgb(255, 255, 255);
     object-fit: contain;
