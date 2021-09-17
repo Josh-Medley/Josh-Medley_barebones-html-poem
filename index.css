@@ -26,7 +26,7 @@ section {
     color:red;
   }
   
-  .poem {
+  poem {
     background-color:rgb(54, 20, 4);
     object-fit: contain;
     border:5pt solid black;
