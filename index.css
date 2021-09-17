@@ -1,6 +1,7 @@
 body {
   background-color:rgb(79, 30, 198);
 }
+
    h1 {
     font-family: serif;
     font-weight: bold;
@@ -8,6 +9,7 @@ body {
     font-size:45pt;
     text-align: center;
 }
+
    h2 {
     font-family: serif;
     font-weight: bold;
