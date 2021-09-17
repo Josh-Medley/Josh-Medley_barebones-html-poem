@@ -19,7 +19,7 @@ body {
     object-fit: contain;
     background-color: black;
     border:5pt solid white;
-    padding: 2rem;
+    padding: 4rem;
     color: white;
     font-family: serif;
     font-weight: bold;
@@ -46,8 +46,8 @@ body {
 }
 
    img {
-     width:40%;
-     height:40%;
+     width:35%;
+     height:35%;
      border:5pt solid black;
      object-fit: contain;
      text-align: center;
