@@ -13,6 +13,7 @@ body {
     font-size:12pt;
     text-align: center;
 }
+
    section {
     text-align: center;
     object-fit: contain;
@@ -23,13 +24,16 @@ body {
     font-family: serif;
     font-weight: bold;
 }
+
    a:link {
     color: blue;
     text-align: right;
 }
+
    a:visited {
     color:red;
 }
+
    .poem {
     background-color:rgb(255, 255, 255);
     object-fit: contain;
@@ -40,6 +44,7 @@ body {
     text-align: center;
     padding: 4rem;
 }
+
    img {
      width:50%;
      height:50%;
