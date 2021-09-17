@@ -37,7 +37,7 @@ body {
    .poem {
     background-color:rgb(255, 255, 255);
     object-fit: contain;
-    border:5pt solid black;
+    border:5pt solid white;
     font-family: serif;
     color: purple;
     font-size:20pt;
