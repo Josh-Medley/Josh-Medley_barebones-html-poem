@@ -37,9 +37,9 @@ body {
    .poem {
     background-color:rgb(79, 30, 198);
     object-fit: contain;
-    border:5pt solid white;
+    border:5pt solid red;
     font-family: serif;
-    color: purple;
+    color: blue;
     font-size:20pt;
     text-align: center;
     padding: 4rem;
