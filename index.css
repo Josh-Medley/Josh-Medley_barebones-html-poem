@@ -1,20 +1,20 @@
 body {
   background-color:rgb(79, 30, 198);
 }
-  h1 {
-    font-family: Arial, Helvetica, sans-serif;
+   h1 {
+    font-family: serif;
     font-weight: bold;
     font-size:36pt;
     text-align: center;
 }
-    h2 {
-    font-family: Arial, Helvetica, sans-serif;
+   h2 {
+    font-family: serif;
     font-weight: bold;
     font-size:12pt;
     text-align: center;
 }
 
-section {
+   section {
     text-align: center;
     object-fit: contain;
     background-color: black;
@@ -25,15 +25,15 @@ section {
     font-weight: bold;
 }
   
-  a:link {
+   a:link {
     color: blue;
     text-align: right;
 }
-  a:visited {
+   a:visited {
     color:red;
 }
   
-  .poem {
+   .poem {
     background-color:rgb(79, 30, 198);
     object-fit: contain;
     border:5pt solid black;
@@ -43,8 +43,7 @@ section {
     text-align: center;
     padding: 2rem;
 }
-    
-    img {
+   img {
      width:15%;
      height:15%;
      border:5pt solid black;
