@@ -20,7 +20,7 @@ body {
     background-color: black;
     border:5pt solid white;
     padding: 4rem;
-    color: rgb(255, 255, 255);
+    color: rgb(79, 30, 198);
     font-family: serif;
     font-weight: bold;
 }
@@ -39,7 +39,7 @@ body {
     object-fit: contain;
     border:2pt solid white;
     font-family: serif;
-    color: white;
+    color: purple;
     font-size:20pt;
     text-align: center;
     padding: 4rem;
