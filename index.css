@@ -26,8 +26,8 @@ section {
     color:red;
   }
   
-  poem {
-    background-color:rgb(54, 20, 4);
+  .poem {
+    background-color:rgb(79, 30, 198);
     object-fit: contain;
     border:5pt solid black;
     font-family: Arial, Helvetica, sans-serif;
