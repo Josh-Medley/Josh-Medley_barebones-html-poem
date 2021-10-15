@@ -1,10 +1,5 @@
         <meta name="viewport" content="width=device-width,initial-scale=1">
 
-   .dark-mode {
-    background-color: black;
-    color: ghostwhite;
-}
-
 <style>
 	  	@media only screen and (min-width: 400px) {
 	body {
@@ -19,7 +14,11 @@
 	body {
 		background: navy;
 		align-content: center;
-			}
+	}		
+	.dark-mode {
+		background-color: black;
+		color: ghostwhite;
+	}
 	section {
 		height: 150px;
 	}
@@ -35,8 +34,14 @@
 			}
 }
 </style>
-body {
-  background-color: darkred;
+
+   .dark-mode {
+    background-color: black;
+    color: ghostwhite;
+}
+
+   body {
+    background-color: darkred;
 }
 
    h1 {
@@ -53,6 +58,11 @@ body {
     color: palegoldenrod;
     font-size:28pt;
     text-align: center;
+}
+
+   .dark-mode {
+    background-color: black;
+    color: ghostwhite;
 }
 
    section {
@@ -92,4 +102,9 @@ body {
      border:5pt solid indigo;
      object-fit: contain;
      text-align: center;
+}
+
+   .dark-mode {
+    background-color: black;
+    color: ghostwhite;
 }
