@@ -32,7 +32,7 @@
 </style>
 
    body {
-    background-color: maroon;
+    background-color: darkred;
 }
 
    .dark-mode {
@@ -90,7 +90,7 @@
    img {
      width:35%;
      height:35%;
-     border:5pt solid indigo;
+     border:5pt solid midnightblue;
      object-fit: contain;
      text-align: center;
 }
