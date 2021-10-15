@@ -1,6 +1,3 @@
-        <meta name="viewport" content="width=device-width,initial-scale=1">
-
-<style>
 	  	@media only screen and (min-width: 400px) {
 	body {
 		background: darkorchid;
@@ -29,7 +26,6 @@
 		font-size: 12pt;		
 	}
 }
-</style>
 
    body {
     background-color: darkred;
