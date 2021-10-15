@@ -90,7 +90,7 @@
    img {
      width:35%;
      height:35%;
-     border:5pt solid midnightblue;
+     border:5pt solid red;
      object-fit: contain;
      text-align: center;
 }
