@@ -6,9 +6,13 @@
 		background: darkorchid;
 		align-content: center;
 	}
+	.dark-mode {
+		background-color: black;
+		color: ghostwhite;
+	}
 	section {
 		padding: 4rem;
-			}
+	}
 }
 		@media only screen and (max-width: 1080px) {
 	body {
@@ -31,7 +35,7 @@
 	}
 	a:link {
 		font-size: 12pt;		
-			}
+	}
 }
 </style>
 
@@ -76,6 +80,11 @@
     font-weight: bold;
 }
 
+   .dark-mode {
+    background-color: black;
+    color: ghostwhite;
+}
+
    a:link {
     color: blue;
     text-align: right;
@@ -83,6 +92,11 @@
 
    a:visited {
     color:red;
+}
+
+   .dark-mode {
+    background-color: black;
+    color: ghostwhite;
 }
 
    .poem {
