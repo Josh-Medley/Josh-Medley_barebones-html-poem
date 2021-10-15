@@ -6,10 +6,6 @@
 		background: darkorchid;
 		align-content: center;
 	}
-	.dark-mode {
-		background-color: black;
-		color: ghostwhite;
-	}
 	section {
 		padding: 4rem;
 	}
@@ -18,10 +14,6 @@
 	body {
 		background: navy;
 		align-content: center;
-	}		
-	.dark-mode {
-		background-color: black;
-		color: ghostwhite;
 	}
 	section {
 		height: 150px;
@@ -39,13 +31,13 @@
 }
 </style>
 
+   body {
+    background-color: maroon;
+}
+
    .dark-mode {
     background-color: black;
     color: ghostwhite;
-}
-
-   body {
-    background-color: darkred;
 }
 
    h1 {
@@ -64,11 +56,6 @@
     text-align: center;
 }
 
-   .dark-mode {
-    background-color: black;
-    color: ghostwhite;
-}
-
    section {
     text-align: center;
     object-fit: contain;
@@ -80,11 +67,6 @@
     font-weight: bold;
 }
 
-   .dark-mode {
-    background-color: black;
-    color: ghostwhite;
-}
-
    a:link {
     color: blue;
     text-align: right;
@@ -92,11 +74,6 @@
 
    a:visited {
     color:red;
-}
-
-   .dark-mode {
-    background-color: black;
-    color: ghostwhite;
 }
 
    .poem {
@@ -116,9 +93,4 @@
      border:5pt solid indigo;
      object-fit: contain;
      text-align: center;
-}
-
-   .dark-mode {
-    background-color: black;
-    color: ghostwhite;
 }
